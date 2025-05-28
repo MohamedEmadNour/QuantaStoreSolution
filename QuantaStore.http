@@ -1,0 +1,6 @@
+@QuantaStore_HostAddress = http://localhost:5163
+
+GET {{QuantaStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
